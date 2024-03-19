@@ -1,5 +1,5 @@
 # mixed-reality-ux-prototyping-scene
-This respository contains my Unity file for testing automotive UX prototypes in mixed reality. To read more about this project, check out [my article on The Turn Signal](https://theturnsignalblog.com/mixed-reality-and-the-future-automotive-ux-testing)
+This respository contains my Unity file for testing automotive UX prototypes in mixed reality. To read more about this project, check out [my article on The Turn Signal](https://www.theturnsignalblog.com/mixed-reality-the-future-of-automotive-ux-prototyping)
 
 In the scenes folder you will find:
 - Version 1: a static scene with my early explorations
